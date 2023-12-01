@@ -147,11 +147,11 @@
       <version>31.0.1-jre</version>
     </dependency>
     
-    <dependency>
+   <!-- <dependency>
     <groupId>org.slf4j</groupId>
     <artifactId>slf4j-api</artifactId>
     <version>1.7.7</version>
-</dependency>
+</dependency>-->
 
 <dependency>
     <groupId>com.microsoft.sqlserver</groupId>
@@ -164,12 +164,8 @@
     <artifactId>slf4j-api</artifactId>
     <version>2.0.0-alpha0</version>
 </dependency>
-<dependency>
-    <groupId>org.slf4j</groupId>
-    <artifactId>slf4j-api</artifactId>
-    <version>2.0.0-alpha0</version>
-</dependency>
 
+   
     
   </dependencies>
 </project>
